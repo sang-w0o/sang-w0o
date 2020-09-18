@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssura1)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangwoo-98)](https://hits.seeyoufarm.com)
 
-![나상우's github stats](https://github-readme-stats.vercel.app/api?username=ssura1&show_icons=true&theme=highcontrast)
+![나상우's github stats](https://github-readme-stats.vercel.app/api?username=sangwoo-98&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssura1&layout=compact)](https://github.com/ssura1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwoo-98&layout=compact)](https://github.com/sangwoo-98/github-readme-stats)
