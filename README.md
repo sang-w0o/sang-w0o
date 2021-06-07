@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 ![나상우's github stats](https://github-readme-stats.vercel.app/api?username=sang-w0o&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang-w0o&layout=compact)](https://github.com/sangwoo-98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang-w0o&layout=compact)](https://github.com/sang-w0o/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sang-w0o&theme=onedark)](https://github.com/sang-w0o/github-profile-trophy)
+
