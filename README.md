@@ -1,26 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ssura1/ssura1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Recent Blog Posts
 
 - [Setting up Datadog APM on ECS, Fargate(Spring Boot)](https://dev.to/aws-builders/setting-up-datadog-apm-on-ecs-fargatespring-boot-4ema)
 - [Configuring Minimum-Secure Web Application with Amazon VPC, EC2, and RDS](https://dev.to/aws-builders/configuring-private-web-application-with-amazon-vpc-ec2-and-rds-5eii)
 - [Consuming SQS Messages with Lambda(TypeScript)](https://dev.to/aws-builders/consuming-sqs-messages-with-lambdatypescript-1gck)
 - [mini-memcached 개발기](https://medium.com/daangn/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-mini-memcached-%EA%B0%9C%EB%B0%9C%EA%B8%B0-732bf2bb9e)
+
+### Certifications
+
+<p align="center">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+<p/>
   
 ### 지식을 공유하자!!!
 
