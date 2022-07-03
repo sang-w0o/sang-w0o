@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, this is Roy!👋
 
 ### Recent Blog Posts
 
@@ -8,11 +8,9 @@
 - [mini-memcached 개발기](https://medium.com/daangn/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-mini-memcached-%EA%B0%9C%EB%B0%9C%EA%B8%B0-732bf2bb9e)
 
 ### Certifications
-
-<p align="center">
-    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
-</p>
   
+![AWS_SAA](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) 
+
 ### 지식을 공유하자!!!
 
 - 🥳 [Example Collection](https://github.com/Example-Collection) 🥳
