@@ -3,7 +3,7 @@
 ### Recent Blog Posts
 
 - [Using DynamoDB on Spring Boot (feat.Kotlin)](https://dev.to/aws-builders/using-dynamodb-on-spring-boot-featkotlin-3674)
-- [Beginner's guide to AWS-SAA exam.](https://dev.to/aws-builders/beginners-guide-to-aws-saa-exam-fcn)
+- [Beginner's guide to AWS Solutions Architect Associate(SAA) certification.](https://dev.to/aws-builders/beginners-guide-to-aws-saa-exam-fcn)
 - [Setting up Datadog APM on ECS, Fargate(Spring Boot)](https://dev.to/aws-builders/setting-up-datadog-apm-on-ecs-fargatespring-boot-4ema)
 - [Configuring Minimum-Secure Web Application with Amazon VPC, EC2, and RDS](https://dev.to/aws-builders/configuring-private-web-application-with-amazon-vpc-ec2-and-rds-5eii)
 - [Consuming SQS Messages with Lambda(TypeScript)](https://dev.to/aws-builders/consuming-sqs-messages-with-lambdatypescript-1gck)
