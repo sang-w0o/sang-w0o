@@ -2,6 +2,7 @@
 
 ### Recent Blog Posts
 
+- [Deploying simple application to EKS on Fargate.](https://dev.to/sangwoo/deploying-simple-application-to-eks-on-fargate-5ee2)
 - [Using DynamoDB on Spring Boot (feat.Kotlin)](https://dev.to/aws-builders/using-dynamodb-on-spring-boot-featkotlin-3674)
 - [Beginner's guide to AWS Solutions Architect Associate(SAA) certification.](https://dev.to/aws-builders/beginners-guide-to-aws-saa-exam-fcn)
 - [Setting up Datadog APM on ECS, Fargate(Spring Boot)](https://dev.to/aws-builders/setting-up-datadog-apm-on-ecs-fargatespring-boot-4ema)
