@@ -3,7 +3,7 @@
 ### Recent Blog Posts
 
 - [Hosting Helm chart with S3](https://github.com/sang-w0o/Study/blob/master/Infrastructure/Kubernetes/Helm%20chart%EC%99%80%20S3%EB%A1%9C%20Helm%20chart%20hosting%ED%95%98%EA%B8%B0.md)
-- Setting up Datadog APM on EKS + Fargate](https://dev.to/aws-builders/apm-with-datadog-on-eks-fargate-17i2)
+- [Setting up Datadog APM on EKS + Fargate](https://dev.to/aws-builders/apm-with-datadog-on-eks-fargate-17i2)
 - [Monitoring EKS cluster with Prometheus and Grafana](https://dev.to/aws-builders/monitoring-eks-cluster-with-prometheus-and-grafana-1kpb)
 - [Using ArgoCD on EKS + Fargate](https://dev.to/aws-builders/using-argocd-on-eks-fargate-47lb)
 - [Deploying simple application to EKS on Fargate.](https://dev.to/sangwoo/deploying-simple-application-to-eks-on-fargate-5ee2)
