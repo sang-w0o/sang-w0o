@@ -20,9 +20,4 @@
   
 ![AWS_SAA](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) 
 
-### 지식을 공유하자!!!
-
-- 🥳 [Example Collection](https://github.com/Example-Collection) 🥳
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangw-w0o)](https://hits.seeyoufarm.com)
