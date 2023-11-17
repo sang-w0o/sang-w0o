@@ -1,6 +1,6 @@
 # Roy's GitHub
 
-## Server Developer @tossbank
+## Server Developer @tossbank, AWS Community Builder
 
 ### Recent Blog Posts
 
